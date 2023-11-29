@@ -8,11 +8,11 @@ Group Members:
 
 Links:
   1. Smoking Rates of Population per Census Tract:
-      *https://data.wprdc.org/dataset/allegheny-county-smoking-rates
+      https://data.wprdc.org/dataset/allegheny-county-smoking-rates
   2. Locations of Hospitals:
-       *https://data.wprdc.org/dataset/hospitals
+       https://data.wprdc.org/dataset/hospitals
   3. Location of Fast Food Restaraunts:
-       *https://data.wprdc.org/dataset/allegheny-county-fast-food
+       https://data.wprdc.org/dataset/allegheny-county-fast-food
 
 Overview:
   1. We determined which neighborhood in Pittsburgh was the best by seeing how "healthy" it was. To determine how healthy a neighborhood is, we used data sets from the Western Pennsylvania Regional 
